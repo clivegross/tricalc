@@ -1,0 +1,2 @@
+# tricalc
+Triathlon pace calculator
